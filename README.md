@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jime, a FullStack developer that has a slight inclination for backend work and an eye on games development.
+- 🔭 I’m currently working on a group project building a Classroom-like platform. We are very excited about it! And I'm enjoying the challenges we are encountering! We are taking a deeper dive into JavaScript, Sequelize, Express, Node, PostgreSQL, React, Redux, and making a lot of configuration!
+- 🌱 I’m diving into Firebase to handle authentication, and React Native is next in line to start engaging with mobile applications development.
+
 <!--
 **Jime227/Jime227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
